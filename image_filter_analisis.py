@@ -5,7 +5,7 @@ from skimage.color import rgb2gray
 from PIL import Image
 import cv2
 
-url = "data/cameraman.png"
+url = "data/cobaini.jpg"
 img_pil = Image.open(url).convert("L")
 img = np.array(img_pil)
 img = cv2.resize(img, (256, 256))

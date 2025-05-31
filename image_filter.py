@@ -4,7 +4,7 @@ import cv2
 from PIL import Image
 
 # Load gambar lokal
-url = "data/cameraman.png"
+url = "data/cobaini.jpg"
 img_pil = Image.open(url).convert("L")
 img = np.array(img_pil)
 img = cv2.resize(img, (256, 256))
