@@ -1,3 +1,2 @@
 # Tugas_Week_3_Sinyal_Digital-
-
-tugas ini merepresentasikann 
+pada tugas kali ini kami ingin 
