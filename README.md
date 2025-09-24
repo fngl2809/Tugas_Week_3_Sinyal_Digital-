@@ -1,3 +1,2 @@
 # Tugas_Week_3_Sinyal_Digital-
-
-tugas ini merepresentasikannn.......
+dibuat untuk memenuhi tugas matakuliah pengolahan sinyal digital
